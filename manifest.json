@@ -1,0 +1,14 @@
+{
+    "name": "JSON object to a Bootstrap table",
+    "version": "1.0",
+    "manifest_version": 1,
+    "description": "JSON-To-TABLE converts a JSON object/array to a Bootstrap compliant HTML table with sort enabled on columns.",
+    "browser_action": {
+        "default_icon": "icon.png",
+        "default_popup": "src/index.html"
+    },
+    "permissions": [
+        "http://*/"
+    ],
+    "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}
