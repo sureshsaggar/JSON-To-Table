@@ -1,8 +1,8 @@
 {
-    "name": "JSON object to a Bootstrap table",
-    "version": "1.0",
-    "manifest_version": 1,
-    "description": "JSON-To-TABLE converts a JSON object/array to a Bootstrap compliant HTML table with sort enabled on columns.",
+    "name": "JSON to Bootstrap table",
+    "version": "1.1.1",
+    "manifest_version": 2,
+    "description": "JSON-To-TABLE converts a JSON Object/Array to a Bootstrap compliant HTML5 table with sort enabled on columns.",
     "browser_action": {
         "default_icon": "icon.png",
         "default_popup": "src/index.html"

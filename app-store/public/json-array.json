@@ -1,0 +1,363 @@
+
+[
+	{
+		"Mobile Device Info": "Apple iPad",
+		"Operating System": "iOS",
+		"Visits": "98",
+		"Pages / Visit": "3.18",
+		"Avg. Visit Duration": "00:05:58",
+		"% New Visits": "53.06%",
+		"Bounce Rate": "21.43%"
+	},
+	{
+		"Mobile Device Info": "Apple iPhone",
+		"Operating System": "iOS",
+		"Visits": "47",
+		"Pages / Visit": "2.66",
+		"Avg. Visit Duration": "00:03:13",
+		"% New Visits": "63.83%",
+		"Bounce Rate": "29.79%"
+	},
+	{
+		"Mobile Device Info": "(not set)",
+		"Operating System": "Android",
+		"Visits": "17",
+		"Pages / Visit": "2.71",
+		"Avg. Visit Duration": "00:03:14",
+		"% New Visits": "88.24%",
+		"Bounce Rate": "41.18%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-N7000 Galaxy Note",
+		"Operating System": "Android",
+		"Visits": "7",
+		"Pages / Visit": "2.71",
+		"Avg. Visit Duration": "00:05:26",
+		"% New Visits": "42.86%",
+		"Bounce Rate": "14.29%"
+	},
+	{
+		"Mobile Device Info": "HTC X515 EVO 3D",
+		"Operating System": "Android",
+		"Visits": "5",
+		"Pages / Visit": "2.40",
+		"Avg. Visit Duration": "00:09:44",
+		"% New Visits": "0.00%",
+		"Bounce Rate": "60.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9100 Galaxy S II",
+		"Operating System": "Android",
+		"Visits": "4",
+		"Pages / Visit": "2.50",
+		"Avg. Visit Duration": "00:13:39",
+		"% New Visits": "75.00%",
+		"Bounce Rate": "25.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9300 Galaxy S3",
+		"Operating System": "Android",
+		"Visits": "4",
+		"Pages / Visit": "5.00",
+		"Avg. Visit Duration": "00:04:39",
+		"% New Visits": "50.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-S5830 Galaxy Ace",
+		"Operating System": "Android",
+		"Visits": "4",
+		"Pages / Visit": "1.75",
+		"Avg. Visit Duration": "00:01:26",
+		"% New Visits": "25.00%",
+		"Bounce Rate": "25.00%"
+	},
+	{
+		"Mobile Device Info": "BlackBerry 9360 Curve",
+		"Operating System": "BlackBerry",
+		"Visits": "3",
+		"Pages / Visit": "1.67",
+		"Avg. Visit Duration": "00:00:37",
+		"% New Visits": "33.33%",
+		"Bounce Rate": "66.67%"
+	},
+	{
+		"Mobile Device Info": "HTC One S",
+		"Operating System": "Android",
+		"Visits": "3",
+		"Pages / Visit": "9.00",
+		"Avg. Visit Duration": "00:03:00",
+		"% New Visits": "33.33%",
+		"Bounce Rate": "33.33%"
+	},
+	{
+		"Mobile Device Info": "Nokia C6-00",
+		"Operating System": "SymbianOS",
+		"Visits": "3",
+		"Pages / Visit": "1.33",
+		"Avg. Visit Duration": "00:00:30",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "66.67%"
+	},
+	{
+		"Mobile Device Info": "Nokia Lumia 800",
+		"Operating System": "Windows Phone",
+		"Visits": "3",
+		"Pages / Visit": "3.33",
+		"Avg. Visit Duration": "00:10:14",
+		"% New Visits": "66.67%",
+		"Bounce Rate": "66.67%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9100G Galaxy S II",
+		"Operating System": "Android",
+		"Visits": "3",
+		"Pages / Visit": "2.67",
+		"Avg. Visit Duration": "00:02:56",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-P3100 Galaxy Tab 2 7.0",
+		"Operating System": "Android",
+		"Visits": "3",
+		"Pages / Visit": "12.00",
+		"Avg. Visit Duration": "00:12:46",
+		"% New Visits": "66.67%",
+		"Bounce Rate": "33.33%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-S7500 Galaxy Ace Plus",
+		"Operating System": "Android",
+		"Visits": "3",
+		"Pages / Visit": "1.33",
+		"Avg. Visit Duration": "00:22:05",
+		"% New Visits": "33.33%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "SonyEricsson WT19i Live",
+		"Operating System": "Android",
+		"Visits": "3",
+		"Pages / Visit": "2.00",
+		"Avg. Visit Duration": "00:01:34",
+		"% New Visits": "66.67%",
+		"Bounce Rate": "33.33%"
+	},
+	{
+		"Mobile Device Info": "BlackBerry 9220",
+		"Operating System": "BlackBerry",
+		"Visits": "2",
+		"Pages / Visit": "2.00",
+		"Avg. Visit Duration": "00:00:48",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "50.00%"
+	},
+	{
+		"Mobile Device Info": "BlackBerry 9320 BlackBerry Curve 9320",
+		"Operating System": "BlackBerry",
+		"Visits": "2",
+		"Pages / Visit": "2.00",
+		"Avg. Visit Duration": "00:03:39",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "50.00%"
+	},
+	{
+		"Mobile Device Info": "Google Nexus S",
+		"Operating System": "Android",
+		"Visits": "2",
+		"Pages / Visit": "4.00",
+		"Avg. Visit Duration": "00:03:07",
+		"% New Visits": "50.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "HTC PJ83100 One X",
+		"Operating System": "Android",
+		"Visits": "2",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "50.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "Motorola XT530",
+		"Operating System": "Android",
+		"Visits": "2",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:01:37",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "50.00%"
+	},
+	{
+		"Mobile Device Info": "Nokia E7-00",
+		"Operating System": "SymbianOS",
+		"Visits": "2",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "50.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-S5360 Galaxy Y",
+		"Operating System": "Android",
+		"Visits": "2",
+		"Pages / Visit": "6.50",
+		"Avg. Visit Duration": "00:05:02",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-S6102",
+		"Operating System": "Android",
+		"Visits": "2",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "Apple iPod",
+		"Operating System": "iOS",
+		"Visits": "1",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:01:07",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "BlackBerry 9790 BlackBerry Bold 9790",
+		"Operating System": "BlackBerry",
+		"Visits": "1",
+		"Pages / Visit": "4.00",
+		"Avg. Visit Duration": "00:01:47",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "HTC A310e Explorer",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "HTC Desire HD",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "4.00",
+		"Avg. Visit Duration": "00:01:18",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Lenovo K1",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:34",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Opera Mini 7",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "Opera Tablet on Android",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "3.00",
+		"Avg. Visit Duration": "00:03:11",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9000 Galaxy S",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "2.00",
+		"Avg. Visit Duration": "00:08:26",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9003",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "1.00",
+		"Avg. Visit Duration": "00:00:00",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "100.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-I9070 Galaxy S Advance",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "4.00",
+		"Avg. Visit Duration": "00:03:24",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-P5100 Galaxy Tab 2 10.1",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "8.00",
+		"Avg. Visit Duration": "00:22:01",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-P7500 Galaxy Tab 10.1",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "2.00",
+		"Avg. Visit Duration": "00:04:07",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung GT-S5300 Galaxy Pocket",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "3.00",
+		"Avg. Visit Duration": "00:02:40",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "Samsung SGH-T989D Galaxy S II X",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "3.00",
+		"Avg. Visit Duration": "00:00:57",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "SonyEricsson LT15i Xperia Arc",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "3.00",
+		"Avg. Visit Duration": "00:04:02",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	},
+	{
+		"Mobile Device Info": "SonyEricsson LT26i Xperia Arc HD",
+		"Operating System": "Android",
+		"Visits": "1",
+		"Pages / Visit": "3.00",
+		"Avg. Visit Duration": "00:03:17",
+		"% New Visits": "100.00%",
+		"Bounce Rate": "0.00%"
+	}
+]

@@ -1,0 +1,14 @@
+Description
+
+JSON-To-TABLE converts a JSON Object/Array to a Bootstrap compliant HTML5 table with sort enabled on columns.
+Enter a URL of a page that displays JSON data and press 'Get' to convert it into HTML5 table for easy data analysis.
+
+JSON to Bootstrap table is an innovative solution that will help you to:
+
+- View JSON data in a HTML5 tabular format,
+- Sort your data by column,
+- Share your data/table via email!
+
+This powerful solution enables you to do all that mentioned above instantly, with one click on the extension icon in the Chrome toolbar.
+
+!Note: this extension is supported on all the Google Chrome versions.
